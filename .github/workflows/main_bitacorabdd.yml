@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'bitacoraBDD'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28A8A5223E6F4383B8FC9D3B7108805C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8AFAB90180F349D8BABED65022032C6B }}
           package: .
